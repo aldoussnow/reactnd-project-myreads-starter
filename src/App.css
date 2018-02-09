@@ -85,6 +85,15 @@ body, .app {
   outline: none;
 }
 
+.search-books .bookshelf {
+  position: relative;
+  top: 50px;
+}
+
+.search-books .search-books-results {
+  padding-top: 5px;
+}
+
 .close-search {
   display: block;
   top: 20px;
